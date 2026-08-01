@@ -101,7 +101,7 @@ Created visualizations using Matplotlib and Seaborn to identify trends and patte
 ---
 ## Dashboard Preview
 
-![Netflix Dashboard](/dashboard.png)
+![Netflix Dashboard](Dashboard.png)
 ---
 
 ## 📚 Skills Demonstrated
