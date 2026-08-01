@@ -99,7 +99,9 @@ Created visualizations using Matplotlib and Seaborn to identify trends and patte
 - Use audience rating trends to optimize future content production.
 
 ---
-Dashboard Preview
+## Dashboard Preview
+
+![Netflix Dashboard](images/dashboard.png)
 ---
 
 ## 📚 Skills Demonstrated
